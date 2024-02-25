@@ -130,7 +130,7 @@ technical_background:
 </div>
 
 ###
-
 <img src="https://raw.githubusercontent.com/Rajkumars777/Rajkumars777/output/snake.svg" alt="Snake animation" />
 
 ###
+
