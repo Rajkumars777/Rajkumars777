@@ -8,10 +8,10 @@
 
 <p align="center">
 <a href="https://itzraj.vercel.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <img src="https://skillicons.dev/icons?i=instagram" alt="vscode" width="" height="45"/>
 </a>
 <a href="https://www.linkedin.com/in/raja-kumar-s-a52334258/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+   <img src="https://skillicons.dev/icons?i=linkedin" alt="vscode" width="" height="45"/>
 </a>
 <a href="https://twitter.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
@@ -59,23 +59,39 @@ hobbies: ["Sports","Art","Designing","Gaming", "Cinema", "Skateboarding"]
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js" alt="vscode" width="" height="45"/?
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://skillicons.dev/icons?i=html" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=angular" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ae" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=autocad" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=blender" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ai" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=kali" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mangodb" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodes" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ps" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pnpm" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=qt" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ubunto" alt="ubunto" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="vscode" width="" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="vscode" width="" height="45"/>
+   
 </p>
 
 <p align="center">
