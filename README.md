@@ -8,7 +8,8 @@
   <a href="	https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumars777&theme=blue-green">
     <a href="mailto:rajakumarcsecs@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/raja-kumar-s-a52334258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.instagram.com/lightning_.777/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://leetcode.com/rajakumarcsecs/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>   
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -37,15 +38,9 @@ technical_background:
     "Intern - Software Development",
     "Intern - Web Developer",
   ]
+
 ```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/raj777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raj777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raja-kumar-s-a52334258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raja-kumar-s-a52334258/" height="30" width="40" /></a>
-<a href="https://instagram.com/lighting_.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lighting_.777" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajakumarcsecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajakumarcsecs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rajakumarcsecs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajakumarcsecs/" height="30" width="40" /></a>
-</p>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajkumars777&show_icons=true&locale=en" alt="rajkumars777" /></p>
@@ -85,6 +80,6 @@ technical_background:
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="vscode" width="" height="45"/>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://github.com/Rajkumars777/Rajkumars777/blob/main/raj1.png" loop="none" alt="header"/>
+</div>
