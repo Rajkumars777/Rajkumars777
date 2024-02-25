@@ -43,7 +43,7 @@ technical_background:
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-![Raj's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Rajkumars777&show_icons=true&theme=dracula](https://github.com/Rajkumars777/Rajkumars777/issues/1#issue-2152643757))
+![Raj's GitHub stats]((https://github.com/Rajkumars777/Rajkumars777/issues/1#issue-2152643757)
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html" alt="vscode" width="" height="45"/>
