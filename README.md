@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Rajkumars777/Rajkumars777/blob/main/raj.gif" loop=infinit alt="header"/>
+  <img src="https://github.com/Rajkumars777/Rajkumars777/blob/main/raj.gif" loop="1" alt="header"/>
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Raj!!👋%20&height=100&section=header"/>
