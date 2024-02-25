@@ -1,29 +1,16 @@
 <div align="center">
   <img src="https://github.com/Rajkumars777/Rajkumars777/blob/main/raj.gif" loop="none" alt="header"/>
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Raj!!👋%20&height=100&section=header"/>
-</p>
-
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-
+<h2  align="center">📫 Reach me on</h2>
 <p align="center">
-<a href="https://itzraj.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="vscode" width="" height="45"/>
-</a>
-<a href="https://www.linkedin.com/in/raja-kumar-s-a52334258/">
-   <img src="https://skillicons.dev/icons?i=linkedin" alt="vscode" width="" height="45"/>
-</a>
-<a href="https://twitter.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <a href="	https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumars777&theme=blue-green">
+  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
