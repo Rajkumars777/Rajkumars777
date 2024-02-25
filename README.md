@@ -43,7 +43,7 @@ technical_background:
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-![Thiago Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=iniciandoprogramador&show_icons=true&theme=dracula)
+![Thiago Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkumars777&show_icons=true&theme=dracula)
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html" alt="vscode" width="" height="45"/>
