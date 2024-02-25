@@ -4,7 +4,6 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-<h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a href="	https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumars777&theme=blue-green">
   <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,10 +38,6 @@ technical_background:
     "Intern - Software Development",
     "Intern - Web Developer",
   ]
-  
-currently_learning: ["React-Js,Gen AI and Angular"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Sports","Art","Designing","Gaming", "Cinema", "Skateboarding"]
 ```
   
 ---  
