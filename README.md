@@ -125,12 +125,12 @@ technical_background:
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Rajkumars777/Rajkumars777/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="center">
   <img src="https://github.com/Rajkumars777/Rajkumars777/blob/main/raj1.png" loop="none" alt="header"/>
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/Rajkumars777/Rajkumars777/output/snake.svg" alt="Snake animation" />
-
-###
-
