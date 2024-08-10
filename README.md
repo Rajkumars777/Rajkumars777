@@ -9,7 +9,7 @@
     <a href="mailto:rajakumarcsecs@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/raja-kumar-s-a52334258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.instagram.com/lightning_.777/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank"href="https://leetcode.com/rajakumarcsecs/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://leetcode.com/u/Rajakumar777/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>   
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
