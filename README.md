@@ -17,7 +17,6 @@
 ```yaml
 name: Raj
 located_in: Tamilnadu,India
-current_job: Full Stack Developer
 education:
   [
     "Bachelor's in Computer Science Engineering In Specialization Cyber Security",
