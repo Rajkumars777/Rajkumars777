@@ -28,8 +28,7 @@ fields_of_interests:
     "Web Development",
     "Software Developmant",
     "UI/UX",
-    "Machine Learning",
-    "Game Development",
+    "Machine Learning".
   ]
 technical_background:
   [
