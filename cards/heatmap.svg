@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="210" viewBox="0 0 760 210">
+<style>@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}.graph{animation:rise .8s ease-out both}@media(prefers-reduced-motion:reduce){.graph{animation:none}}</style>
+<rect width="760" height="210" rx="14" fill="#f3f3f0"/>
+<text x="36" y="45" font-family="Georgia,serif" font-size="27" fill="#111">Every day, <tspan fill="#3155ff" font-style="italic">in blue</tspan></text>
+<text x="724" y="44" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="1" fill="#777">LIVE FROM GITHUB</text>
+<image class="graph" href="https://ghchart.rshah.org/3155ff/Rajkumars777" x="36" y="65" width="688" height="115" preserveAspectRatio="none"/>
+</svg>
